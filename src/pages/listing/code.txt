@@ -1,0 +1,21 @@
+
+            <div className="min-h-screen bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-white">
+                {/* Header */}
+                <header className="sticky top-0 z-50 bg-white dark:bg-gray-800 shadow px-6 py-4 flex justify-between items-center">
+                    <h1 className="text-2xl font-bold">HostelMate</h1>
+                    <nav className="space-x-4 hidden md:flex">
+                        <a href="#" className="hover:text-primary">Home</a>
+                        <a href="#" className="hover:text-primary">Explore</a>
+                        <a href="#" className="hover:text-primary">Saved</a>
+                    </nav>
+                    <button className="bg-primary text-white px-4 py-2 rounded-xl">Login</button>
+                </header>
+
+                {/* Filters */}
+
+
+                {/* Listing Grid */}
+                <div className="px-4 pb-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                  
+                </div>
+            </div>

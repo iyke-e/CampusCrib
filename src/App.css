@@ -1,0 +1,10 @@
+.steps {
+  &::before {
+    content: "";
+    aspect-ratio: 1/1;
+    position: absolute;
+    border-radius: 50%;
+    right: 0px;
+    translate: 50% 0;
+  }
+}

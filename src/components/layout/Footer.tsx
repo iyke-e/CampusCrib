@@ -3,7 +3,7 @@ import { Icons } from "../../assets"
 
 const Footer = () => {
     return (
-        <footer className="bg-primary px-container pt-20 pb-6">
+        <footer className="bg-footer-background rounded-tr-[100px] px-container pt-20 pb-6">
 
             <div className=" md:flex justify-between mb-14  ">
                 <div>
